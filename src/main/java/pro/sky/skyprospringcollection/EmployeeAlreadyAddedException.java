@@ -1,4 +1,4 @@
 package pro.sky.skyprospringcollection;
 
-public class EmployeeAlreadyAddedException extends RuntimeException{
+public class EmployeeAlreadyAddedException extends RuntimeException {
 }

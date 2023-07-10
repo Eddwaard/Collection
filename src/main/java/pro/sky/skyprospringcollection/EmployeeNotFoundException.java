@@ -1,4 +1,4 @@
 package pro.sky.skyprospringcollection;
 
-public class EmployeeNotFoundException extends RuntimeException{
+public class EmployeeNotFoundException extends RuntimeException {
 }
